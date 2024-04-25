@@ -1,0 +1,2 @@
+# mashinalar
+github tutorial 
